@@ -1,0 +1,11 @@
+class Color:
+    PURPLE = ''
+    CYAN = ''
+    DARKCYAN = ''
+    BLUE = ''
+    GREEN = ''
+    YELLOW = ''
+    RED = ''
+    BOLD = ''
+    UNDERLINE = ''
+    END = ''
